@@ -12,7 +12,6 @@ import (
 )
 
 //https://platform.openai.com/docs/api-reference/completions/create
-//https://platform.openai.com/docs/api-reference/completions/create
 
 const defaultCreateEndpoint = "https://api.openai.com/v1/completions"
 
